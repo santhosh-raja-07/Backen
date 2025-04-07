@@ -59,10 +59,10 @@ Both user and lawyer have their own login and dashboard. The only shared feature
 [📄 View Document](https://docs.google.com/document/d/1m2o72Sg9VfBXFqvkt82JTSfqPwyewefS/edit?usp=sharing&ouid=100119364837244355757&rtpof=true&sd=true)
 
 ### 🏛️ Architecture Diagram  
-[🏛️ View Document](https://docs.google.com/document/d/1jtRY72AQkCma2Gtz29RGYIaUHd1mDdWi/edit?usp=sharing&ouid=100119364837244355757&rtpof=true&sd=true)
+[🏛️ View Document](https://docs.google.com/document/d/1z5ldvRBcj6RcUEodqENw3_I8Ly7HDUqR/edit?usp=sharing&ouid=100119364837244355757&rtpof=true&sd=true)
 
 ### 🗂️ ER Diagram  
-[🗂️ View Document](https://docs.google.com/document/d/1z5ldvRBcj6RcUEodqENw3_I8Ly7HDUqR/edit?usp=sharing&ouid=100119364837244355757&rtpof=true&sd=true)
+[🗂️ View Document](https://docs.google.com/document/d/1jtRY72AQkCma2Gtz29RGYIaUHd1mDdWi/edit?usp=sharing&ouid=100119364837244355757&rtpof=true&sd=true)
 
 ### 🖼️ Swagger API Screenshot  
 ![Swagger API Screenshot](screenshots/Swagger_API_screenshot.png)
