@@ -35,13 +35,9 @@ Both user and lawyer have their own login and dashboard. The only shared feature
 ## 🛠️ Tech Stacks
 ### 🖥️ Frontend:
 HTML
-
 CSS
-
 JavaScript
-
 Bootstrap (for design)
-
 Chart.js (or other chart library) for displaying charts
 
 
@@ -51,16 +47,12 @@ Secure user and lawyer login/signup system implemented using Spring Security and
 
 #### 🗄️ Database:
 User and case data stored in MySQL using Spring Data JPA.
-
 Real-time chat functionality implemented using WebSocket and persisted in MySQL.
 
 #### 🔒 Security:
 Role-based access control ensures separate access for users and lawyers.
-
 All endpoints are protected using Spring Security configuration.
-
 Data validation, authorization, and secure communication enforced throughout the backend.
-
 
 
 
