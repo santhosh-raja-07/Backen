@@ -41,16 +41,25 @@ Both user and lawyer have their own login and dashboard. The only shared feature
 - Bootstrap (for design)
 - Chart.js *(or other chart library)* for displaying charts
 
-### Backend:
-- Firebase Authentication (login/signup)
-- Firebase Firestore (store data)
-- Firebase Realtime Database (store chat details)
+###🔙 Backend - Java Spring Boot
+Authentication:
+Secure user and lawyer login/signup system implemented using Spring Security and JWT (JSON Web Tokens).
 
----
+Database:
 
-## 🔐 Security
-- Users and lawyers have separate access
-- All data is protected using Firebase security rules
+User and Case Data stored in MySQL using Spring Data JPA.
+
+Real-time Chat Functionality implemented using WebSocket and persisted in MySQL.
+
+🔐 Security:
+
+Role-based access control ensures separate access for users and lawyers.
+
+All endpoints are protected using Spring Security configuration.
+
+Data validation, authorization, and secure communication enforced throughout the backend.
+
+
 
 ---
 ## 📄 CaseAssist Documentation & Diagrams
