@@ -44,7 +44,6 @@ Bootstrap (for design)
 
 Chart.js (or other chart library) for displaying charts
 
----
 
 ### 🔙 Backend - Java Spring Boot
 #### 🔐 Authentication:
